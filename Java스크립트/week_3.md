@@ -108,5 +108,3 @@ body {
     text-decoration : 텍스트 장식을 지정(underline)
     text-shadow : 그림자 효과를 지정(3px 3px 5px #넣고싶은 그림자 색)
     line-height : 텍스트 줄의 높이 간격(%)
-
-	
