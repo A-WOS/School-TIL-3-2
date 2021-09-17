@@ -84,10 +84,10 @@ a:active -> 마우스 클릭한 순간에 글자색이나 글자 모양을 변�
     list-style : 리스트 스타일
 -----------------    
 ### 폰트 속성
-    font-family : 폰트 패밀리 설정
-    font-size : 폰트 크기 설정
-    font-style : 폰트 스타일 설정
-    font-weight : 폰트의 볼드체 여부 설정
+    font-family : 폰트 패밀리 설정(font-family:"Times New Roman", Times, serif)
+    font-size : 폰트 크기 설정(px, %, em)
+    font-style : 폰트 스타일 설정(italic)
+    font-weight : 폰트의 볼드체 여부 설정(normal)
 
 ### ※주의 사항※
     font-family 속성을 설정할 때는 여러 개의 폰트 이름을 제공하는 것이 좋다.
@@ -102,3 +102,11 @@ body {
     font-family:"Times New Roman", Times, serif;
 }
 ```    
+-----------------
+### 텍스트 스타일 속성
+    text-align : 텍스트의 수평 정렬을 지정(center)
+    text-decoration : 텍스트 장식을 지정(underline)
+    text-shadow : 그림자 효과를 지정(3px 3px 5px #넣고싶은 그림자 색)
+    line-height : 텍스트 줄의 높이 간격(%)
+
+	
